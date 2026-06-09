@@ -26,7 +26,7 @@ services:
 
   web:
     # No `build:` here — just pull the image you published.
-    image: ${WEB_IMAGE:?set WEB_IMAGE to your pushed image, e.g. youruser/lumen-web:1.0}
+    image: elsamayego/lumen-web:latest
     container_name: lumen-web
     restart: unless-stopped
     environment:
