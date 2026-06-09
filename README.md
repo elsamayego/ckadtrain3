@@ -229,4 +229,5 @@ tasks(
 - ✏️ Full edit dialog (title, notes, priority, tag, due)
 - 🌗 Light / dark theme, remembered across visits
 - 🗓️ Friendly due dates (Today / Tomorrow / weekday) with overdue highlighting
+- test
 # ckadtrain3
